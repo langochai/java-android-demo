@@ -2,4 +2,6 @@
     <string name="app_name">MusicPlayer</string>
     <string name="play">Play</string>
     <string name="pause">Pause</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="light_mode">Light mode</string>
 </resources>

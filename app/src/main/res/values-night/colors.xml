@@ -7,8 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="toolbar_icon_color">#FF000000</color>
-    <color name="header_background_color">#FFFFFFFF</color>
-    <color name="theme_thumb">#FFFFFFFF</color>
-    <color name="theme_track">#FF000000</color>
+    <color name="toolbar_icon_color">#FFFFFFFF</color>
+    <color name="header_background_color">#FF000000</color>
+    <color name="theme_thumb">#FF000000</color>
+    <color name="theme_track">#FFFFFFFF</color>
 </resources>
