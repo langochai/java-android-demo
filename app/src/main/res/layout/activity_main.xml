@@ -38,6 +38,7 @@
             android:textColor="@color/toolbar_icon_color"
             />
         <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/theme_switch"
             android:layout_width="100dp"
             android:layout_height="match_parent"
             android:layout_gravity="end"
@@ -45,10 +46,11 @@
             android:paddingEnd="18dp"
             android:scaleX="1.2"
             android:scaleY="1.2"
+            android:contentDescription="theme_switch"
             app:thumbTint="@color/theme_thumb"
             app:trackTint="@color/theme_track"
             android:background="?attr/selectableItemBackgroundBorderless"
-            />
+            tools:ignore="HardcodedText" />
     </androidx.appcompat.widget.Toolbar>
 
 
@@ -81,7 +83,8 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Info" />
+            android:text="Info"
+            tools:ignore="HardcodedText" />
 
         <Button
             android:id="@+id/prev_button"
@@ -89,7 +92,8 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Prev" />
+            android:text="Prev"
+            tools:ignore="HardcodedText" />
 
         <Button
             android:id="@+id/play_pause_button"
@@ -97,7 +101,8 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Play" />
+            android:text="Play"
+            tools:ignore="HardcodedText" />
 
         <Button
             android:id="@+id/next_button"
@@ -105,7 +110,8 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Next" />
+            android:text="Next"
+            tools:ignore="HardcodedText" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

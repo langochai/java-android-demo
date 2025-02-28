@@ -9,6 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="toolbar_icon_color">#FFFFFFFF</color>
     <color name="header_background_color">#FF000000</color>
-    <color name="theme_thumb">#FF000000</color>
-    <color name="theme_track">#FFFFFFFF</color>
+    <color name="theme_thumb">#C9CAC9</color>
+    <color name="theme_track">#432F85</color>
 </resources>
